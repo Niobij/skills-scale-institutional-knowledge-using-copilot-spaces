@@ -13,6 +13,8 @@ Maintain a simple table with:
 - Mitigation plan
 - Status
 
+Use the [Risk Register Template](octoacme-risk-register-template.md) for a ready-to-use table with field definitions, escalation thresholds, and a resolved-risks log.
+
 ## Risk Lifecycle
 - Identify: during planning and ongoing execution
 - Assess: estimate impact and likelihood

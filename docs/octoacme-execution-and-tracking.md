@@ -22,6 +22,8 @@ Guidance for managing day-to-day execution and tracking progress toward project 
 - End-to-end smoke tests for critical flows before release
 - Security scanning in CI
 - Manual QA for feature acceptance when needed
+- All work items must satisfy the team's [Definition of Done](octoacme-definition-of-done.md) before moving to the "Done" column
+- The QA Lead gates acceptance; no item is "Done" without QA sign-off where required by the DoD
 
 ## Reporting & Metrics
 - Track velocity and burndown
@@ -37,4 +39,5 @@ Guidance for managing day-to-day execution and tracking progress toward project 
 - [ ] Branching and PR conventions documented in repo
 - [ ] CI configured for tests and lint
 - [ ] Regular demos scheduled
-- [ ] Risk register updated weekly
+- [ ] Risk register updated weekly (see [Risk Register Template](octoacme-risk-register-template.md))
+- [ ] [Definition of Done](octoacme-definition-of-done.md) reviewed and agreed by the team at project kickoff

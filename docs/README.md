@@ -22,6 +22,9 @@ Quality assurance is built into both development and release practices. The team
 | [Release & Deployment Guide](octoacme-release-and-deployment.md) | Deployment checklist, staged rollout, rollback plans, and release announcements |
 | [Retrospective & Continuous Improvement](octoacme-retrospective-and-continuous-improvement.md) | Retro format, action tracking, and continuous improvement practices |
 | [Roles and Personas](octoacme-roles-and-personas.md) | Definitions and responsibilities for each role on an OctoAcme project team |
+| [Definition of Done](octoacme-definition-of-done.md) | Team-wide DoD checklist with role-specific expectations |
+| [Release Readiness Checklist](octoacme-release-readiness-checklist.md) | Pre-release gate checklist and Go / No-Go sign-off template |
+| [Risk Register Template](octoacme-risk-register-template.md) | Structured template for logging, scoring, and tracking project risks |
 
 ## How to Use These Docs
 
